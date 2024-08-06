@@ -16,7 +16,6 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/k71v1_64_bsp/proprietary/etc/default_volume_tables.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/default_volume_tables.xml \
     vendor/vivo/k71v1_64_bsp/proprietary/etc/hearing_aid_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/hearing_aid_audio_policy_configuration.xml \
     vendor/vivo/k71v1_64_bsp/proprietary/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/r_submix_audio_policy_configuration.xml \
-    vendor/vivo/k71v1_64_bsp/proprietary/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_SYSTEM)/etc/seccomp_policy/mediacodec.policy \
     vendor/vivo/k71v1_64_bsp/proprietary/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/usb_audio_policy_configuration.xml \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/egl/libGLES_android.so:$(TARGET_COPY_OUT_SYSTEM)/lib/egl/libGLES_android.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/libstagefrightVivoSw.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefrightVivoSw.so \

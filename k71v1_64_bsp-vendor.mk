@@ -34,9 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/vendor.mediatek.hardware.pq@2.3.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.pq@2.3.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/vendor.trustonic.tee@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.trustonic.tee@1.0.so \
-    vendor/vivo/k71v1_64_bsp/proprietary/lib64/egl/libGLES_android.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/egl/libGLES_android.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib64/libstagefrightVivoSw.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefrightVivoSw.so \
-    vendor/vivo/k71v1_64_bsp/proprietary/lib64/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_codecbase.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib64/vendor.mediatek.hardware.camera.atms@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.camera.atms@1.0.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib64/vendor.mediatek.hardware.gpu@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.gpu@1.0.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib64/vendor.mediatek.hardware.mms@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.mms@1.0.so \

@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/k71v1_64_bsp/proprietary/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/usb_audio_policy_configuration.xml \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/egl/libGLES_android.so:$(TARGET_COPY_OUT_SYSTEM)/lib/egl/libGLES_android.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/libstagefrightVivoSw.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefrightVivoSw.so \
+    vendor/vivo/k71v1_64_bsp/proprietary/lib/libstagefright_codecbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_codecbase.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/libstagefright_wfd_mtk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_wfd_mtk.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/vendor.mediatek.hardware.camera.atms@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.camera.atms@1.0.so \
     vendor/vivo/k71v1_64_bsp/proprietary/lib/vendor.mediatek.hardware.gpu@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.gpu@1.0.so \

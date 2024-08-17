@@ -112,6 +112,7 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/ccci_rpcd:$(TARGET_COPY_OUT_VENDOR)/bin/ccci_rpcd \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/dhrystone64_bit.elf:$(TARGET_COPY_OUT_VENDOR)/bin/dhrystone64_bit.elf \
+    vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/dumpsys:$(TARGET_COPY_OUT_VENDOR)/bin/dumpsys \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/em_hidl:$(TARGET_COPY_OUT_VENDOR)/bin/em_hidl \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/epdg_wod:$(TARGET_COPY_OUT_VENDOR)/bin/epdg_wod \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/factory:$(TARGET_COPY_OUT_VENDOR)/bin/factory \

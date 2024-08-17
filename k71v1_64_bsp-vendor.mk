@@ -123,6 +123,7 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hostapd_cli:$(TARGET_COPY_OUT_VENDOR)/bin/hostapd_cli \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.audio@5.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.audio@5.0-service-mediatek \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.0-service-mediatek \
+    vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.cas@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.cas@1.1-service \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.configstore@1.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.configstore@1.1-service \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.drm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.0-service \
     vendor/vivo/k71v1_64_bsp/proprietary/vendor/bin/hw/android.hardware.drm@1.2-service.clearkey:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.2-service.clearkey \
